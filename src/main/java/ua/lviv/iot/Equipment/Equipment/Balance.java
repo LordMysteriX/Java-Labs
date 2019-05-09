@@ -1,4 +1,4 @@
-package main.java.ua.lviv.iot.Equipment.Equipment;
+package ua.lviv.iot.Equipment.Equipment;
 
 public class Balance extends Equipment {
     private int maxWeight;

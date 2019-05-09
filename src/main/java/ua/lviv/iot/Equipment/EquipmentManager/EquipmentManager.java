@@ -1,16 +1,17 @@
-package main.java.ua.lviv.iot.Equipment.EquipmentManager;
+package ua.lviv.iot.Equipment.EquipmentManager;
 
 import java.util.List;
 
-import main.java.ua.lviv.iot.Equipment.Equipment.Equipment;
-import main.java.ua.lviv.iot.Equipment.Equipment.TypeOfEquipment;
-import main.java.ua.lviv.iot.Equipment.Equipment.EnumProducer;
+import ua.lviv.iot.Equipment.Equipment.Equipment;
+import ua.lviv.iot.Equipment.Equipment.TypeOfEquipment;
+import ua.lviv.iot.Equipment.Equipment.EnumProducer;
 
 public interface EquipmentManager {
 
-    public List<Equipment> findByProducer(EnumProducer producer);
+    List<Equipment> findByProducer(EnumProducer producer);
 
-    public List<Equipment> findByHeight(TypeOfEquipment height);
+    List<Equipment> findByHeight(TypeOfEquipment height);
 
-    public List<Equipment> sortByPrice(boolean reverse);
+    List<Equipment> sortByPrice(boolean reverse);
 }
+

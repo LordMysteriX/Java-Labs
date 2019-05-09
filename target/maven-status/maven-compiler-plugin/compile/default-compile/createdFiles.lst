@@ -1,0 +1,12 @@
+main\java\ua\lviv\iot\Equipment\Equipment\Areometer.class
+main\java\ua\lviv\iot\Equipment\Equipment\Balance.class
+main\java\ua\lviv\iot\Equipment\Main.class
+main\java\ua\lviv\iot\Equipment\Equipment\Pycnometer.class
+main\java\ua\lviv\iot\Equipment\Equipment\Viscometer.class
+main\java\ua\lviv\iot\Equipment\EquipmentManager\ImplementsEquipManager.class
+main\java\ua\lviv\iot\Equipment\Equipment\TypeOfEquipment.class
+main\java\ua\lviv\iot\Equipment\Equipment\Equipment.class
+main\java\ua\lviv\iot\Equipment\Equipment\Thermometer.class
+main\java\ua\lviv\iot\Equipment\Equipment\EnumProducer.class
+main\java\ua\lviv\iot\Equipment\Equipment\Calorimeter.class
+main\java\ua\lviv\iot\Equipment\EquipmentManager\EquipmentManager.class

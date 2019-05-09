@@ -1,8 +1,9 @@
-package main.java.ua.lviv.iot.Equipment.EquipmentManager;
+package ua.lviv.iot.Equipment.EquipmentManager;
 
-import main.java.ua.lviv.iot.Equipment.Equipment.EnumProducer;
-import main.java.ua.lviv.iot.Equipment.Equipment.Equipment;
-import main.java.ua.lviv.iot.Equipment.Equipment.TypeOfEquipment;
+import ua.lviv.iot.Equipment.Equipment.EnumProducer;
+import ua.lviv.iot.Equipment.Equipment.Equipment;
+import ua.lviv.iot.Equipment.Equipment.TypeOfEquipment;
+import ua.lviv.iot.Equipment.EquipmentManager.EquipmentManager;
 
 import java.io.Serializable;
 import java.util.Collections;
@@ -17,30 +18,34 @@ public class ImplementsEquipManager implements EquipmentManager, Serializable {
 
     }
 
-    public ImplementsEquipManager(List<Equipment> devices) {
+    public ImplementsEquipManager(final List<Equipment>  devices) {
         this.devices = devices;
     }
 
 
-    public List<Equipment> findByProducer(EnumProducer producer) {
+    public final List<Equipment> findByProducer(final EnumProducer producer) {
         List<Equipment> foundList;
-        foundList = this.devices.stream().filter(x -> producer.equals(x.getProducer()))
+        foundList = this.devices.stream().filter(x ->
+                producer.equals(x.getProducer()))
                 .collect(Collectors.toList());
         return foundList;
     }
 
-    public List<Equipment> findByHeight(TypeOfEquipment height) {
+    public final List<Equipment> findByHeight(final TypeOfEquipment height) {
         List<Equipment> foundList;
-        foundList = this.devices.stream().filter(x -> height.equals(x.getHeight()))
+        foundList = this.devices.stream().filter(x ->
+                height.equals(x.getHeight()))
                 .collect(Collectors.toList());
         return foundList;
     }
 
-    public List<Equipment> sortByPrice(boolean reversed) {
+    public final List<Equipment> sortByPrice(final boolean reversed) {
         if (reversed) {
-            Collections.sort(devices, (o1, o2) -> (int) (o1.getPrice() - o2.getPrice()));
+            Collections.sort(devices, (o1, o2) ->
+                    (int) (o1.getPrice() - o2.getPrice()));
         } else {
-            Collections.sort(devices, (o1, o2) -> (int) (o2.getPrice() - o1.getPrice()));
+            Collections.sort(devices, (o1, o2) ->
+                    (int) (o2.getPrice() - o1.getPrice()));
         }
         return devices;
     }

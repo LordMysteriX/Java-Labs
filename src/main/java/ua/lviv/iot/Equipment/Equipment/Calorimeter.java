@@ -1,4 +1,5 @@
-package main.java.ua.lviv.iot.Equipment.Equipment;
+package ua.lviv.iot.Equipment.Equipment;
+
 
 public class Calorimeter extends Equipment {
     private int volume;
@@ -7,15 +8,16 @@ public class Calorimeter extends Equipment {
 
     }
 
-    public Calorimeter(double price, TypeOfEquipment height, EnumProducer producer, int lenght) {
+    public Calorimeter(final double price, final TypeOfEquipment height,
+                       final EnumProducer producer, final int lenght) {
         super(price, height, producer, lenght);
     }
 
-    public int getVolume() {
+    public final int getVolume() {
         return volume;
     }
 
-    public void setVolume(int volume) {
+    public final void setVolume(final int volume) {
         this.volume = volume;
     }
 }

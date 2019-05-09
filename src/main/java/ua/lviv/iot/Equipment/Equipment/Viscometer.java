@@ -1,4 +1,5 @@
-package main.java.ua.lviv.iot.Equipment.Equipment;
+package ua.lviv.iot.Equipment.Equipment;
+
 
 public class Viscometer extends Equipment {
     private int mistake;
@@ -7,15 +8,16 @@ public class Viscometer extends Equipment {
 
     }
 
-    public Viscometer(double price, TypeOfEquipment height, EnumProducer producer, int lenght) {
+    public Viscometer(final double price, final TypeOfEquipment height,
+                      final EnumProducer producer, final int lenght) {
         super(price, height, producer, lenght);
     }
 
-    public int getMistake() {
+    public final int getMistake() {
         return mistake;
     }
 
-    public void setMistake(int mistake) {
+    public final void setMistake(final int mistake) {
         this.mistake = mistake;
     }
 }

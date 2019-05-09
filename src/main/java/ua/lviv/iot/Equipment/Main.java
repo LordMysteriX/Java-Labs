@@ -1,16 +1,17 @@
-package main.java.ua.lviv.iot.Equipment;
+package ua.lviv.iot.Equipment;
 
-import main.java.ua.lviv.iot.Equipment.Equipment.*;
-import main.java.ua.lviv.iot.Equipment.Equipment.Equipment;
-import main.java.ua.lviv.iot.Equipment.EquipmentManager.EquipmentManager;
-import main.java.ua.lviv.iot.Equipment.EquipmentManager.ImplementsEquipManager;
+
+import ua.lviv.iot.Equipment.Equipment.*;
+import ua.lviv.iot.Equipment.Equipment.Equipment;
+import ua.lviv.iot.Equipment.EquipmentManager.EquipmentManager;
+import ua.lviv.iot.Equipment.EquipmentManager.ImplementsEquipManager;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
 
         Equipment areometer = new Areometer();
         Equipment balance = new Balance();
@@ -57,7 +58,8 @@ public class Main {
 
         EquipmentManager manager = new ImplementsEquipManager(devices);
 
-        List<Equipment> findProducer = manager.findByProducer(EnumProducer.TOSHIBA);
+        List<Equipment> findProducer = manager.findByProducer(
+                EnumProducer.TOSHIBA);
         findProducer.forEach((Equipment device) -> {
             System.out.println(device.getProducer());
         });
