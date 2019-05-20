@@ -7,15 +7,16 @@ public class Balance extends Equipment {
 
     }
 
-    public Balance(double price, TypeOfEquipment height, EnumProducer producer, int lenght) {
+    public Balance(final double price, final TypeOfEquipment height,
+                   final EnumProducer producer, final int lenght) {
         super(price, height, producer, lenght);
     }
 
-    public int getmaxWeight() {
+    public final int getmaxWeight() {
         return maxWeight;
     }
 
-    public void setMaxWeight(int maxWeight) {
+    public final void setMaxWeight(int maxWeight) {
         this.maxWeight = maxWeight;
     }
 }

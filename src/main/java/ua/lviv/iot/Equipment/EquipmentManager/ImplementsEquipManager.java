@@ -7,6 +7,7 @@ import ua.lviv.iot.Equipment.EquipmentManager.EquipmentManager;
 
 import java.io.Serializable;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -14,40 +15,39 @@ public class ImplementsEquipManager implements EquipmentManager, Serializable {
 
     private List<Equipment> devices;
 
+    public ImplementsEquipManager(List<Equipment> devices) {
+    }
+
     public ImplementsEquipManager() {
 
     }
 
-    public ImplementsEquipManager(final List<Equipment>  devices) {
-        this.devices = devices;
+
+    @Override
+    public List<Equipment> findByProducer(List<Equipment> devices, EnumProducer producer) {
+        return devices.stream().filter(device -> device.getProducer()
+                .equals(producer)).collect(Collectors.toList());
     }
 
 
-    public final List<Equipment> findByProducer(final EnumProducer producer) {
-        List<Equipment> foundList;
-        foundList = this.devices.stream().filter(x ->
-                producer.equals(x.getProducer()))
-                .collect(Collectors.toList());
-        return foundList;
+    @Override
+    public List<Equipment> findByHeight(List<Equipment> devices, TypeOfEquipment height) {
+        return devices.stream().filter(device -> device.getHeight()
+                .equals(height)).collect(Collectors.toList());
     }
 
-    public final List<Equipment> findByHeight(final TypeOfEquipment height) {
-        List<Equipment> foundList;
-        foundList = this.devices.stream().filter(x ->
-                height.equals(x.getHeight()))
-                .collect(Collectors.toList());
-        return foundList;
-    }
-
-    public final List<Equipment> sortByPrice(final boolean reversed) {
-        if (reversed) {
-            Collections.sort(devices, (o1, o2) ->
-                    (int) (o1.getPrice() - o2.getPrice()));
-        } else {
-            Collections.sort(devices, (o1, o2) ->
-                    (int) (o2.getPrice() - o1.getPrice()));
-        }
+    @Override
+    public List<Equipment> sortByPriceIncrease(List<Equipment> devices) {
+        Collections.sort(devices, Comparator
+                .comparing(Equipment::getPrice));
         return devices;
     }
 
+    @Override
+    public List<Equipment> sortByPriceDecrease(List<Equipment> devices) {
+        Collections.sort(devices, Comparator
+                .comparing(Equipment::getPrice).reversed());
+        return devices;
+    }
 }
+

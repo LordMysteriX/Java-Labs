@@ -8,10 +8,12 @@ import ua.lviv.iot.Equipment.Equipment.EnumProducer;
 
 public interface EquipmentManager {
 
-    List<Equipment> findByProducer(EnumProducer producer);
+    List<Equipment> findByProducer(List<Equipment> devices, final EnumProducer producer);
 
-    List<Equipment> findByHeight(TypeOfEquipment height);
+    List<Equipment> findByHeight(List<Equipment> devices, final TypeOfEquipment height);
 
-    List<Equipment> sortByPrice(boolean reverse);
+    List<Equipment> sortByPriceIncrease(List<Equipment> devices);
+
+    List<Equipment> sortByPriceDecrease(List<Equipment> devices);
+
 }
-

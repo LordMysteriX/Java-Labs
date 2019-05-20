@@ -19,14 +19,14 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>Lab_3 - Checkstyle report</title>
+    <title>work - Checkstyle report</title>
     <link>http://maven.apache.org</link>
-    <description>Lab_3 - Checkstyle report</description>
+    <description>work - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2019</copyright>
     <item>
       <title>File: 12,
-             Errors: 113,
+             Errors: 118,
              Warnings: 0,
              Infos: 0
       </title>
@@ -111,7 +111,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  9
                 </td>
               </tr>
                           <tr>
@@ -125,7 +125,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  23
+                  25
                 </td>
               </tr>
                           <tr>
@@ -167,7 +167,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  8
                 </td>
               </tr>
                           <tr>
@@ -209,7 +209,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  18
+                  19
                 </td>
               </tr>
                       </tbody>
