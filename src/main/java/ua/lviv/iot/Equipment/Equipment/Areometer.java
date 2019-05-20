@@ -1,4 +1,4 @@
-package main.java.ua.lviv.iot.Equipment.Equipment;
+package ua.lviv.iot.Equipment.Equipment;
 
 public class Areometer extends Equipment {
     private int lenght;
@@ -7,16 +7,17 @@ public class Areometer extends Equipment {
 
     }
 
-    public Areometer(double price, TypeOfEquipment height,
-                     EnumProducer producer, int lenght) {
+    public Areometer(final double price, final TypeOfEquipment height,
+                     final EnumProducer producer, final int lenght) {
         super(price, height, producer, lenght);
     }
 
-    public int getLenght() {
+    public final int getLenght() {
         return lenght;
     }
 
-    public void setLenght(int lenght) {
+    public final void setLenght(final int lenght) {
         this.lenght = lenght;
     }
 }
+

@@ -1,4 +1,5 @@
-package main.java.ua.lviv.iot.Equipment.Equipment;
+package ua.lviv.iot.Equipment.Equipment;
+
 
 public class Thermometer extends Equipment {
     private String typeOfThermometer;
@@ -8,15 +9,16 @@ public class Thermometer extends Equipment {
 
     }
 
-    public Thermometer(double price, TypeOfEquipment height, EnumProducer producer, int lenght) {
+    public Thermometer(final double price, final TypeOfEquipment height,
+                       final EnumProducer producer, final int lenght) {
         super(price, height, producer, lenght);
     }
 
-    public String getTypeOfThermometer() {
+    public final String getTypeOfThermometer() {
         return typeOfThermometer;
     }
 
-    public void setTypeOfThermometer(String typeOfThermometer) {
+    public final void setTypeOfThermometer(final String typeOfThermometer) {
         this.typeOfThermometer = typeOfThermometer;
     }
 

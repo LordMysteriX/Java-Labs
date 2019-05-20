@@ -1,4 +1,4 @@
-package main.java.ua.lviv.iot.Equipment.Equipment;
+package ua.lviv.iot.Equipment.Equipment;
 
 public class Pycnometer extends Equipment {
     private double accuracy;
@@ -8,26 +8,26 @@ public class Pycnometer extends Equipment {
 
     }
 
-    public Pycnometer(double price, TypeOfEquipment height, EnumProducer producer, int lenght) {
+    public Pycnometer(final double price, final TypeOfEquipment height,
+                      final EnumProducer producer, final int lenght) {
         super(price, height, producer, lenght);
     }
 
-    public double getAccuracy() {
+    public final double getAccuracy() {
         return accuracy;
     }
 
-    public void setAccuracy(double accuracy) {
+    public final void setAccuracy(final double accuracy) {
         this.accuracy = accuracy;
     }
 
-    public String getMaterial() {
+    public final String getMaterial() {
         return material;
     }
 
-    public void setMaterial(String material) {
+    public final void setMaterial(final String material) {
         this.material = material;
     }
 
 
 }
-
