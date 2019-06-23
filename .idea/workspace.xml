@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1a312fa-ec4b-4fdd-9bc5-2672b3acbfbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/pmd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/spotbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/spotbugs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spotbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/spotbugsXml.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1a312fa-ec4b-4fdd-9bc5-2672b3acbfbf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,137 +11,192 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lab_5$main_in_Lab_3.ic" NAME="main in Lab_3 Coverage Results" MODIFIED="1559552777826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab_5$All_in_Lab_3.ic" NAME="All in Lab_3 Coverage Results" MODIFIED="1559553009435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Lab_3$Main.ic" NAME="Main Coverage Results" MODIFIED="1552142433135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="241" />
+    <option name="myElementSize" value="275" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Equipment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
-              <folding>
-                <element signature="e#805#806#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
-                <element signature="e#1099#1100#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1177#1178#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-                <element signature="e#1283#1284#0" expanded="true" />
-                <element signature="e#1313#1314#0" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1389#1390#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Calorimeter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Thermometer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Viscometer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestEquipment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.4743034">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManagerWriter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="665">
+                  <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ManagerWriter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="595">
+                  <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Areometer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/TypeOfEquipment.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+                  <folding>
+                    <element signature="e#321#322#0" expanded="true" />
+                    <element signature="e#353#354#0" expanded="true" />
+                    <element signature="e#400#401#0" expanded="true" />
+                    <element signature="e#442#443#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Thermometer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Viscometer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/myFile.csv">
+              <provider selected="true" editor-type-id="csv-text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+                </state>
+              </provider>
+              <provider editor-type-id="csv-table-editor">
+                <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Pycnometer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="30" selection-start-line="30" selection-end-line="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Equipment.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="801">
+                  <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumProducer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Calorimeter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -177,10 +211,6 @@
       <dir>C:\Users\zoroz\IdeaProjects\Lab_3\src\EquipmentManager</dir>
       <dir>C:\Users\zoroz\IdeaProjects\Lab_3\src\ua\lviv\iot\Equipment\EquipmentManager</dir>
     </dirStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -210,34 +240,39 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumThermometer.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/Manager.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7608.4482/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumProducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/TypeOfEquipment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/java/ua/lviv/iot/Equipment/Equipment/Equipment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/java/ua/lviv/iot/TestManagerWriter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/TestManagerWriter.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Equipment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Areometer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/TypeOfEquipment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumProducer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestEquipment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Calorimeter.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Pycnometer.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Thermometer.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Viscometer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ManagerWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Areometer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManagerWriter.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManager.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestEquipment.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
@@ -246,38 +281,55 @@
         <subPane>
           <expand>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ua" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -285,8 +337,8 @@
               <item name="lviv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -295,8 +347,8 @@
               <item name="iot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -306,8 +358,8 @@
               <item name="Equipment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -318,8 +370,8 @@
               <item name="Equipment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -330,29 +382,29 @@
               <item name="EquipmentManager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ua" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -360,8 +412,8 @@
               <item name="lviv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -378,19 +430,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557489180783" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561102787345" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab_8" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.lviv.iot" />
+      <recent name="ua" />
       <recent name="ua.lviv.iot.Equipment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zoroz\metrology\Lab_6\src\main\java\ua\lviv\iot" />
       <recent name="C:\Users\zoroz\IdeaProjects\Lab_3" />
     </key>
   </component>
@@ -406,14 +466,93 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestManagerWriter">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.Equipment.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.lviv.iot.Equipment.Main" />
       <module name="Lab_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in Lab_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.ua.lviv.iot" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ua.lviv.iot.TestManager" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestManagerWriter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lviv.iot" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.TestManagerWriter" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestManager.testFindByProducer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.ua.lviv.iot" />
+      <option name="MAIN_CLASS_NAME" value="test.java.ua.lviv.iot.TestManager" />
+      <option name="METHOD_NAME" value="testFindByProducer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main in Lab_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestManagerWriter" />
+        <item itemvalue="JUnit.All in Lab_3" />
+        <item itemvalue="JUnit.TestManager.testFindByProducer" />
+        <item itemvalue="JUnit.main in Lab_3" />
+        <item itemvalue="JUnit.TestManager" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -428,11 +567,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestManagerWriter - 2019.06.09 at 17h 58m 19s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.09 at 18h 01m 20s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.09 at 18h 21m 15s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.09 at 18h 23m 03s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.09 at 18h 29m 13s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.21 at 07h 45m 40s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.21 at 08h 17m 02s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.21 at 08h 49m 08s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.21 at 08h 58m 45s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManagerWriter - 2019.06.21 at 09h 21m 26s.xml">
+      <configuration name="TestManagerWriter" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38517746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,15 +613,15 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895614" weight="0.24385247" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.31878173" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.08629441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50104386" side_tool="true" visible="true" weight="0.24385247" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.32994923" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32791877" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31864753" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32991803" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -460,7 +631,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.3296875" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -491,133 +662,109 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/Manager.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7608.4482/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumThermometer.java" />
-    <entry file="file://$USER_HOME$/metrology/src/test/java/ua/lviv/iot/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/../src/test/java/ua/lviv/iot/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/App.java" />
     <entry file="file://$USER_HOME$/IdeaProjects/Lab_3/src/main/java/ua/lviv/iot/Equipment/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/IdeaProjects/Lab_3/src/main/java/ua/lviv/iot/Equipment/Equipment/Areometer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab_3.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/TypeOfEquipment.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.0-M1/junit-jupiter-api-5.5.0-M1.jar!/org/junit/jupiter/api/AssertEquals.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Areometer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state>
           <folding>
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#0#6368#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Pycnometer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Main.java" />
+    <entry file="file://C:/Labs/Lab_3/Java-Labs/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Main.java">
+    <entry file="file://$PROJECT_DIR$/out/production/Lab_3/test/java/ua/lviv/iot/TestManager.class" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        <state relative-caret-position="212">
+          <caret line="1539" selection-start-line="1539" selection-end-line="1539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab_3.iml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestEquipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/site/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManagerWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Calorimeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Thermometer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Viscometer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Equipment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        <state relative-caret-position="665">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
           <folding>
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/EquipmentManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ManagerWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Areometer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/TypeOfEquipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Balance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/EquipmentManager/ImplementsEquipManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -626,21 +773,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="459">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/TestEquipment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Thermometer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="255">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Viscometer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myFile.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Pycnometer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/EnumProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Calorimeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/Equipment/Equipment/Equipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -696,7 +894,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Lab_3</last-edited>
+          <last-edited>Lab_6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -709,6 +907,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

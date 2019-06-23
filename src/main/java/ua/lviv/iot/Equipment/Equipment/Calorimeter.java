@@ -1,6 +1,5 @@
 package ua.lviv.iot.Equipment.Equipment;
 
-
 public class Calorimeter extends Equipment {
     private int volume;
 

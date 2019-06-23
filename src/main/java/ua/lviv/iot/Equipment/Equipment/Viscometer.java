@@ -1,6 +1,5 @@
 package ua.lviv.iot.Equipment.Equipment;
 
-
 public class Viscometer extends Equipment {
     private int mistake;
 

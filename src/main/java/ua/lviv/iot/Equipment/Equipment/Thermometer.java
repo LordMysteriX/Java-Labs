@@ -1,6 +1,5 @@
 package ua.lviv.iot.Equipment.Equipment;
 
-
 public class Thermometer extends Equipment {
     private String typeOfThermometer;
 

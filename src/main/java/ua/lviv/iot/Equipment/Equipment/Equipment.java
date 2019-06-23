@@ -1,8 +1,7 @@
 package ua.lviv.iot.Equipment.Equipment;
 
-import ua.lviv.iot.Equipment.Main;
 
-public class Equipment extends Main {
+public class Equipment  {
 
     private double price;
     private TypeOfEquipment height;
@@ -10,7 +9,7 @@ public class Equipment extends Main {
     private int lenght;
 
     @Override
-    public final String toString() {
+    public String toString() {
         return "Items: Price = " + price
                 + ", height = " + height
                 + ", Producer = " + producer
@@ -60,5 +59,20 @@ public class Equipment extends Main {
 
     public void setLenght(final int lenght) {
         this.lenght = lenght;
+
+    }
+
+    public String getHeaders(){
+        return "price: " + price + ", "
+                + "height: " + height + ", "
+                +"producer: " + producer + ", "
+                +"lenght: " + lenght + ", ";
+    }
+
+    public String toCSV(){
+        return "price: " + price + ", "
+                + "height: " + height + ", "
+                +"producer: " + producer + ", "
+                +"lenght: " + lenght + ", ";
     }
 }

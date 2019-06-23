@@ -1,0 +1,12 @@
+price: 40.0, height: LOW, producer: TOSHIBA, lenght: 10, ,volume
+price: 40.0, height: LOW, producer: TOSHIBA, lenght: 10, ,5
+price: 70.0, height: HIGH, producer: CASECOM, lenght: 25, 
+price: 70.0, height: HIGH, producer: CASECOM, lenght: 25, 
+price: 90.0, height: LOW, producer: GORENIYA, lenght: 11, 
+price: 90.0, height: LOW, producer: GORENIYA, lenght: 11, 
+price: 35.0, height: AVERAGE, producer: VASYA_CORPORATION, lenght: 15, 
+price: 35.0, height: AVERAGE, producer: VASYA_CORPORATION, lenght: 15, 
+price: 120.0, height: AVERAGE, producer: VERES_INDUSTRIES, lenght: 20, 
+price: 120.0, height: AVERAGE, producer: VERES_INDUSTRIES, lenght: 20, 
+price: 150.0, height: LOW, producer: PHILIPS, lenght: 7, 
+price: 150.0, height: LOW, producer: PHILIPS, lenght: 7, 

@@ -2,9 +2,10 @@ package ua.lviv.iot.Equipment.EquipmentManager;
 
 import java.util.List;
 
+import ua.lviv.iot.Equipment.Equipment.EnumProducer;
 import ua.lviv.iot.Equipment.Equipment.Equipment;
 import ua.lviv.iot.Equipment.Equipment.TypeOfEquipment;
-import ua.lviv.iot.Equipment.Equipment.EnumProducer;
+
 
 public interface EquipmentManager {
 

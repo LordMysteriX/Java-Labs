@@ -1,15 +1,11 @@
-package test.java.ua.lviv.iot;
+package ua.lviv.iot;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-import ua.lviv.iot.Equipment.Equipment.*;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-
-import main.java.ua.lviv.iot.Equipment.EquipmentManager.ImplementsEquipManager;
+import ua.lviv.iot.Equipment.Equipment.*;
+import ua.lviv.iot.Equipment.EquipmentManager.ImplementsEquipManager;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,12 +20,13 @@ public class TestManager {
     void setUp() {
         EquipManager = new ImplementsEquipManager();
         devices = new ArrayList<Equipment>();
-        devices.add(new Areometer(40, TypeOfEquipment.LOW, EnumProducer.TOSHIBA, 10));
+        devices.add(new Areometer(40, TypeOfEquipment.LOW, EnumProducer.TOSHIBA, 10, 5));
         devices.add(new Balance(70, TypeOfEquipment.HIGH, EnumProducer.CASECOM, 25));
         devices.add(new Calorimeter(90, TypeOfEquipment.LOW, EnumProducer.GORENIYA, 11));
         devices.add(new Pycnometer(35, TypeOfEquipment.AVERAGE, EnumProducer.VASYA_CORPORATION, 15));
         devices.add(new Thermometer(120, TypeOfEquipment.AVERAGE, EnumProducer.VERES_INDUSTRIES, 20));
         devices.add(new Viscometer(150, TypeOfEquipment.LOW, EnumProducer.PHILIPS, 7));
+
 
     }
 

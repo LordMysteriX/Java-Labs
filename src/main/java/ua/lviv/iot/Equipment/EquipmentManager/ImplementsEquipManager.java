@@ -3,24 +3,12 @@ package ua.lviv.iot.Equipment.EquipmentManager;
 import ua.lviv.iot.Equipment.Equipment.EnumProducer;
 import ua.lviv.iot.Equipment.Equipment.Equipment;
 import ua.lviv.iot.Equipment.Equipment.TypeOfEquipment;
-import ua.lviv.iot.Equipment.EquipmentManager.EquipmentManager;
 
 import java.io.Serializable;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class ImplementsEquipManager implements EquipmentManager, Serializable {
-
-    private List<Equipment> devices;
-
-    public ImplementsEquipManager(List<Equipment> devices) {
-    }
-
-    public ImplementsEquipManager() {
-
-    }
 
 
     @Override
